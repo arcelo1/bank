@@ -1,3 +1,4 @@
+```py
 #Client class
 #name
 #timestamp (optional)
@@ -59,3 +60,4 @@ clients[0].accounts[0].account_number = '999999999999'
 
 for client in clients:
     client.print_accounts()
+```
